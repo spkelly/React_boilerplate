@@ -1,4 +1,4 @@
 ## React Boiler plate 
 
-this repo contains boilerplate files used in making a simple react project
+This repo contains boilerplate files used in making a simple react project.
 
